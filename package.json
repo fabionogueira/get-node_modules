@@ -1,0 +1,30 @@
+{
+  "name": "get-node_modules-test",
+  "version": "0.1.1",
+  "license": "ISC",
+  "main": "index.js",
+  "description": "get all local node modules",
+  "keywords": [
+    "node_module",
+    "node",
+    "module",
+    "modules"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fábio Nogueira <fabio.bacabal@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabionogueira/get-node_modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fabionogueira/get-node_modules/issues"
+  },
+  "homepage": "https://github.com/fabionogueira/get-node_modules#readme",
+  "directories": {
+    "test": "test"
+  }
+}
