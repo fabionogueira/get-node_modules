@@ -1,5 +1,5 @@
 {
-  "name": "get-node_modules-test",
+  "name": "get-node_modules",
   "version": "0.1.1",
   "license": "ISC",
   "main": "index.js",
