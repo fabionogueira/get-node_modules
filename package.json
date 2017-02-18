@@ -1,9 +1,10 @@
 {
   "name": "get-node_modules",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "ISC",
   "main": "index.js",
   "description": "get all local node modules",
+  "readmeFilename": "README.md",
   "keywords": [
     "node_module",
     "node",
@@ -20,10 +21,6 @@
     "type": "git",
     "url": "git+https://github.com/fabionogueira/get-node_modules.git"
   },
-  "bugs": {
-    "url": "https://github.com/fabionogueira/get-node_modules/issues"
-  },
-  "homepage": "https://github.com/fabionogueira/get-node_modules#readme",
   "directories": {
     "test": "test"
   }
